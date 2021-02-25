@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+h5{
+    font-family: "Quicksand";
+    color:white;
+    user-select: none;
+}
+
+
+.card-helper{
+    box-shadow:7px 7px 8px 10px #0003
+
+}
+
+h2{
+    font-family: 'Quicksand';
+    user-select:none;
+}
+
+.p1{
+    opacity:0.5;
+}
+
+
+.user-input{
+    outline:none;
+    border:none;
+    padding-bottom:10px;
+
+}
+
+.user-input-underline{
+    position: relative;
+    height:3px;
+    width:30%;
+    background:#ff4d4d;
+    
+}
+
+
+.user-name{
+   background: #4f4f4f;
+   color:white;
+   font-family: "Quicksand";
+   font-size:20px
+   
+   
+}
+
+.info-card-box-shadow{
+    box-shadow : 10px 10px 10px 3px #0004
+}
+
+footer{
+    position: fixed;
+    background:#0007;
+    width:100%;
+    height:5%;
+    bottom:0%
+}
+
+#alert-block{
+    
+    width:100%;
+    background:#ff4d4d;
+}
